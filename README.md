@@ -1,2 +1,2 @@
-# daveBadelf.github.io
-Bad Elf geoprocessing tools
+# BadElfGIStools
+Bad Elf geoprocessing tools for use in ArcGIS Pro.
